@@ -1,0 +1,23 @@
+{
+  "name": "Main project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradayko/JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paradayko/JavaScript/issues"
+  },
+  "homepage": "https://github.com/paradayko/JavaScript#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
+}
